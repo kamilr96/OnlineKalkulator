@@ -43,14 +43,14 @@ h1 {
 	height: 20px;
 	margin: 0 20px;
 	padding-top: 20px;
-	font-size: 15px;
+	font-size: 35px;
 	color: #5c5858;
 }
 #output{
 	text-align: right;
 	height: 60px;
-	margin: 10px 20px;
-	font-size: 30px;
+	margin: 35px 20px;
+	font-size: 55px;
 }
 #keyboard{
 	height: 400px;
