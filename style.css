@@ -6,11 +6,8 @@
   
 body{
 	font-family: 'Open Sans',sans-serif;
-	background-image: url(geometry-1023846_1920.jpg);
+	background-image: url(/geometry-1023846_1920.jpg);
 	background-size: cover;
-	background-color: rgba(0, 0, 0, 0.8)
-	
-
 }
 
 h1 {
